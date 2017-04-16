@@ -1,6 +1,6 @@
 # MythcraftGamelogic
 
-**TODO: Add description**
+Gamelogic module for the game Mythcraft
 
 ## Installation
 
